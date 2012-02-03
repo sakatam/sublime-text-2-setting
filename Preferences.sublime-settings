@@ -1,0 +1,16 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-project",
+		"*.sublime-workspace"
+	],
+	"font_size": 15.0,
+	"highlight_line": true,
+	"tab_size": 2,
+	"trailing_spaces_file_max_size": 4096,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
